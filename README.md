@@ -1,2 +1,1 @@
-# adventofcode2021
-[label](https://adventofcode.com/2021)
+[# adventofcode2021](https://adventofcode.com/2021)
